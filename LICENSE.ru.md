@@ -70,7 +70,7 @@ https://www.apache.org/licenses/LICENSE-2.0.html
 
 ### Источники
 
-  * https://www.apache.org/licenses/LICENSE-2.0.html
-  * https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F_Apache
-  * https://habr.com/ru/post/114993/
-  * http://www.dataved.ru/2011/03/apache-license-2.html
+  * [Оригинальная лицензия на сайте Apache foundation](https://www.apache.org/licenses/LICENSE-2.0.html)
+  * [Статья в русской Wikipedia](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F_Apache)
+  * [Статья на HABR-е](https://habr.com/ru/post/114993/)
+  * [Русский перевод, источник](http://www.dataved.ru/2011/03/apache-license-2.html)

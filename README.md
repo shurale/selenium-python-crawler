@@ -1,6 +1,10 @@
 # selenium-python-crawler
 Site crawer on python3 + Selenium webdriver. For educational purpose
 
+This script written on [Python 3.6](http://www.python.org/) and use [Selenium Webdriver](https://www.selenium.dev/).
+
+I test it with Opera v86 web browser
+
 ## Usage
 
 ```
