@@ -3,8 +3,10 @@ Site crawer on python3 + Selenium webdriver. For educational purpose
 
 ## Usage
 
-@crawler.py [-h] [-I N] [-w N] [-s filename] [-S scheme] [-l logname] [-D filename] sitename@
-
+```
+crawler.py [-h] [-I N] [-w N] [-s filename] [-S scheme] [-l logname] [-D filename] sitename
+```
+```
 positional arguments:
   sitename              name of processed site
 
@@ -16,3 +18,4 @@ optional arguments:
   -S scheme, --scheme scheme		scheme, http or https
   -l logname, --log logname		name of log file
   -D filename, --driver filename	name Selenium webdriver file
+```
